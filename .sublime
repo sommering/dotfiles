@@ -1,0 +1,15 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+	"font_face": "NanumGothicCoding",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": false,
+	"line_padding_bottom": 3,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
