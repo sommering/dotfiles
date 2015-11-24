@@ -1,7 +1,7 @@
 export EDITOR='emacsclient -t'
 
-export PS1='\[\033[36m\]\W \$\[\033[0m\] '
-export PS2='\[\033[32m\]\W \$\[\033[0m\] '
+export PS1='\[\033[36m\]\u@\h \W \$\[\033[0m\] '
+export PS2='\[\033[32m\]\u@\h \W \$\[\033[0m\] '
 
 alias ls='ls -Gw'
 alias cdgem='cd ~/.rbenv/versions/2.1*/lib/ruby/gems/2.1.0/gems'
