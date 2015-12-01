@@ -9,7 +9,7 @@
 
 (if (display-graphic-p)
   (set-fontset-font "fontset-default" 'hangul
-                    "KoPubDotum_Pro Light"))
+                    "Noto Sans CJK KR Thin"))
 
 (setq magit-last-seen-setup-instructions "1.4.0")
 
